@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+### Organizational Introduction<br/>
+Positioning: true · open source, love · power generation<br/>
+Vision: Create easy-to-use open-source software/components
+
+### How to join<br/>
+Please click the [Add Warehouse] button in the upper right corner or visit our open source organization homepage: <br/>
+https://www.oscode.top/
+
+### Contact<br/>
+Website:
+https://www.oscode.top/<br/>
+Email:
+eom-official@oscode.top(The server is in China, please use Microsoft, QQ, NetEase, etc. email to contact us)
+
+
 ### 组织介绍<br/>
 定位：真·开源、爱·发电<br/>
 愿景：用技术创造易用的开源软件/组件
@@ -27,18 +42,3 @@ https://www.oscode.top/
 https://www.oscode.top/<br/>
 郵箱：
 eom-official@oscode.top（服務器在中國，請使用微軟、QQ、網易等郵箱聯繫我們）
-
-### Organizational Introduction<br/>
-Positioning: true · open source, love · power generation<br/>
-Vision: Create easy-to-use open-source software/components
-
-### How to join<br/>
-Please click the [Add Warehouse] button in the upper right corner or visit our open source organization homepage: <br/>
-https://www.oscode.top/
-
-### Contact<br/>
-Website:
-https://www.oscode.top/<br/>
-Email:
-eom-official@oscode.top(The server is in China, please use Microsoft, QQ, NetEase, etc. email to contact us)
-
