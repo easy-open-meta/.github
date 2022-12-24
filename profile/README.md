@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there/你好呀 👋
 
 ### Organizational Introduction<br/>
 Positioning: true · open source, love · power generation<br/>
