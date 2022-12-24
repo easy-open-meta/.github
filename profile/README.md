@@ -12,7 +12,7 @@ https://www.oscode.top/
 Website:
 https://www.oscode.top/<br/>
 Email:
-eom-official@oscode.top(The server is in China, please use Microsoft, QQ, NetEase, etc. email to contact us)
+eom-official@oscode.top(The server is in China, Please use Microsoft, QQ, NetEase and other domestic mailboxes to contact)
 
 
 ### 组织介绍<br/>
@@ -27,7 +27,7 @@ https://www.oscode.top/
 网站：
 https://www.oscode.top/<br/>
 邮箱:
-eom-official@oscode.top(服务器在国内，请使用微软、QQ、网易等邮箱联系)
+eom-official@oscode.top(服务器在国内，请使用微软、QQ、网易等境内邮箱联系)
 
 ### 組織介紹<br/>
 定位：真·開源、愛·發電<br/>
@@ -41,4 +41,4 @@ https://www.oscode.top/
 網站：
 https://www.oscode.top/<br/>
 郵箱：
-eom-official@oscode.top（服務器在中國，請使用微軟、QQ、網易等郵箱聯繫我們）
+eom-official@oscode.top（服務器在中國大陸，請使用微軟、QQ、網易等境内郵箱聯繫我們）
