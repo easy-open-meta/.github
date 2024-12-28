@@ -2,6 +2,7 @@
 
 ### Organizational Introduction
 Positioning: true · open source, love · power generation
+
 Vision: Create easy-to-use open-source software/components
 
 ### How to join
@@ -17,6 +18,7 @@ eom-official@oscode.top(#Replace with@)
 
 ### 组织介绍
 定位：真·开源、爱·发电
+
 愿景：用技术创造易用的开源软件/组件
 
 ### 如何加入
@@ -31,6 +33,7 @@ eom-official#oscode.top(#换成@)
 
 ### 組織介紹
 定位：真·開源、愛·發電
+
 願景：用技術創造易用的開源軟件/組件
 
 ### 如何加入
