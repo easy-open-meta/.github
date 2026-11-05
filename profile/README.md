@@ -4,8 +4,8 @@
 |--------|--------|----|------------|-------------|
 | Web    | Caresy |  [HIS](https://gitee.com/java-and-net/caresy-web)  | 2026-06-02 | N/A         |
 | Api    | Caresy |  [HIS](https://gitee.com/java-and-net/caresy-api)  | 2026-06-02 | N/A         |
-| PC     | Orcsy |  [Orcsy](https://gitee.com/java-and-net/Orcsy)  | 2026-10-28 | N/A         |
-| Cross-Client    | Pixsy |  [Orcsy](https://gitee.com/java-and-net/pixsy)  | 2026-11-03 | N/A         |
+| PC     | Orcsy |  [Orcsy](https://github.com/easy-open-meta/Orcsy)  | 2026-10-28 | N/A         |
+| Cross-Client    | Pixsy |  [Orcsy](https://github.com/easy-open-meta/pixsy)  | 2026-11-03 | N/A         |
 | Web    | Topsy  |  [PMS](https://gitee.com/java-and-net/topsky-hotel-management-system-vue3)  | 2024-11-28 | N/A         |
 | Api    | Topsy  |  [PMS](https://gitee.com/java-and-net/topsky-hotel-management-system-web-api)  | 2021-07-28 | N/A         |
 | PC     | Topsy  |  [PMS](https://gitee.com/java-and-net/TopskyHotelManagementSystem)  | 2022-05-30 | 2026-05-02  |
