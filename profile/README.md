@@ -1,5 +1,20 @@
 ## Hi there/你好呀 👋
 
+| Project Type   | Project Code   | Repo Link | Start Date       | EOL Date |
+|--------|--------|----|------------|-------------|
+| Web    | Caresy |  [HIS](https://gitee.com/java-and-net/caresy-web)  | 2026-06-02 | N/A         |
+| Api    | Caresy |  [HIS](https://gitee.com/java-and-net/caresy-api)  | 2026-06-02 | N/A         |
+| PC     | Orcsy |  [Orcsy](https://gitee.com/java-and-net/Orcsy)  | 2026-10-28 | N/A         |
+| Cross-Client    | Pixsy |  [Orcsy](https://gitee.com/java-and-net/pixsy)  | 2026-11-03 | N/A         |
+| Web    | Topsy  |  [PMS](https://gitee.com/java-and-net/topsky-hotel-management-system-vue3)  | 2024-11-28 | N/A         |
+| Api    | Topsy  |  [PMS](https://gitee.com/java-and-net/topsky-hotel-management-system-web-api)  | 2021-07-28 | N/A         |
+| PC     | Topsy  |  [PMS](https://gitee.com/java-and-net/TopskyHotelManagementSystem)  | 2022-05-30 | 2026-05-02  |
+| Android | Topsy  |  [PMS](https://gitee.com/java-and-net/topsky-hotel-management-system-maui)  | 2025-06-13 | N/A         |
+| Web    | Wardsy |  [ALMS](https://gitee.com/java-and-net/wardsy-web)  | 2026-06-05 | N/A         |
+| Api    | Wardsy |  [ALMS](https://gitee.com/java-and-net/wardsy-api)  | 2026-06-05 | N/A         |
+| PC     | Petsy |  [QP](https://gitee.com/java-and-net/quick-paster-tool)  | 2022-03-25 | N/A         |
+| PC/Android | Yin-yan |  [YY](https://gitee.com/java-and-net/yin-yan-music-player)  | 2021-03-18 | N/A         |
+
 ### Organizational Introduction
 Positioning: true · open source, love · power generation
 
